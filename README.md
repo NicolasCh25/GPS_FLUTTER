@@ -50,10 +50,3 @@ Comparar el flujo de desarrollo, el manejo nativo de hardware y la gestión de e
 
 ---
 
-## 🚀 Instrucciones de Ejecución
-
-### Ejecución en Ionic
-```bash
-cd gps-comparativa
-npm install
-ionic serve
